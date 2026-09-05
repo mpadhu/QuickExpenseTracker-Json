@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.1",
-  "latestVersionCode": 14,
-  "minimumAllowedVersionCode": 14,
+  "latestVersion": "1.2",
+  "latestVersionCode": 15,
+  "minimumAllowedVersionCode": 15,
   "disableRequest": {
-    "below": 14,
-    "on": "13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1"
+    "below": 15,
+    "on": "14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1"
   },
   "url": "https://play.google.com/store/apps/details?id=com.padmanabhan.quickexpensetracker",
   "releaseNotes": [
